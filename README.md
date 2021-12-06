@@ -1,5 +1,6 @@
 # ShinyItemAnalysis <img src="inst/ShinyItemAnalysis/www/sia_logo.svg" align="right" width=150/> 
 Test and item analysis via shiny
+考试及试题分析-Shiny解决方案
 
 <!-- badges: start -->
 ![GHversion](https://img.shields.io/github/release/patriciamar/ShinyItemAnalysis.svg)
