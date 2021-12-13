@@ -1,4 +1,5 @@
 # ShinyItemAnalysis <img src="inst/ShinyItemAnalysis/www/sia_logo.svg" align="right" width=150/> 
+## 以下内容是捷克科学院和查理大学团队开发整理
 ## 考试及试题分析-Shiny解决方案
 Test and item analysis via shiny
 
